@@ -1,0 +1,54 @@
+#profile-info{
+  width: 250px;
+  padding: 5px;
+}
+
+.img-circle{
+  width: 100px;
+  height: 100px;
+  border-radius:50%;
+}
+
+#profile-thumbnail{
+  float: left;
+  margin-top:20px;
+  margin-left:25px;
+}
+
+#profile-info{
+  padding:20px;
+  display:inline;
+  margin-left:50px;
+}
+
+#profile-info p{
+  margin-left:150px;
+  width: 250px;
+}
+
+#profile-info #name{
+  font-size:25px;
+  white-space:nowrap;
+  /*padding:20px;*/
+}
+
+#profile-data{
+  background-color: #F0F5B5;
+  float:left;
+  clear:both;
+  padding:10px;
+  margin-top:15px;
+  width: 400px;
+  padding-left:75px;
+}
+
+#profile-data p{
+  display:inline;
+  padding:5px;
+  margin-right:50px;
+}
+
+
+.active{
+  color: red;
+}
